@@ -20,7 +20,7 @@
 			  $file = fopen('list.txt','a');
 			  fwrite($file,$datas[$i]['id']."\n");
 			  if($i == count($datas[$i]['id'])){
-				  echo "Lấy ID Group thành công !!! \n";
+				  echo "Lấy ID thành công !!! \n";
 				  echo "Xem ID đã lấy : <a href='list.txt'>Click</a>";
 			  }
 		  }
