@@ -12,7 +12,7 @@ Lấy ID của thành viên trong 1 nhóm Facebook.
 ```
 
 > Sau khi sửa xong bạn chỉ cần chạy file là xong 😘
-## Chi tiết
+## Hướng dẫn chi tiết ( Xem video bên dưới )
 [![Code lấy UID thành viên nhóm Facebook ( PHP )](https://img.youtube.com/vi/2N-Jv3BXMfo/0.jpg)](https://www.youtube.com/watch?v=2N-Jv3BXMfo)
 ## Author contacts
 * Facebook: [@sven812](https://www.facebook.com/100012668051362)
